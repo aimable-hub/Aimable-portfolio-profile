@@ -9,18 +9,9 @@ This repository serves as a **hub of my projects and learning journey** — show
 
 ## 🗂️ Featured Projects  
 
-🔹 [data-cleaning-with-python](../data-cleaning-with-python)  
-*Python notebooks demonstrating how to clean, preprocess, and transform messy datasets using Pandas & NumPy.*  
+Sales Data Cleaning Project:
 
-🔹 [sql-business-queries](../sql-business-queries)  
-*A collection of SQL queries solving common business problems such as sales tracking, customer segmentation, and revenue analysis.*  
-
-🔹 [tableau-sales-insights](../tableau-sales-insights)  
-*Interactive Tableau dashboards analyzing sales data and KPIs for business decision-making.*  
-
-🔹 [r-statistical-analysis](../r-statistical-analysis)  
-*Exploratory data analysis and regression modeling in R using ggplot2 and dplyr.*  
-
+https://github.com/aimable-hub/sales-data-cleaning-project
 ---
 
 ## 🛠️ Skills & Tools  
